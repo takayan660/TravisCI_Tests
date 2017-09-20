@@ -3,4 +3,4 @@ language: C++
 install: true
 
 script:
-    src/cpp/make
+    cd src/cpp/ && make
