@@ -1,1 +1,7 @@
-language: C++
+language: 
+    C++
+
+install: true
+
+script:
+    make
